@@ -6,7 +6,23 @@ body {
 }
 .first-section {
 background-color: #1F2937;
+color: rgb(255, 255, 255);
+font: Helvetica Neue;
 }
+
 ul{
     list-style-type: none;
+}
+
+.header {
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.signup {
+    border: none;
+    border-radius: 20px;
+    background: #3882F6;
+    color: white;
+    padding: 8px 15px;
 }
