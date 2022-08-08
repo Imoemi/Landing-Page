@@ -44,3 +44,14 @@ h2{
     border-style: solid;
     outline: 1px;
 }
+.fourth-section{
+    background-color: rgb(158, 114, 114);
+}
+.quote{
+    font-size: 20px;
+    font-style: italic;
+}
+.quote-name{
+    font-size: 20px;
+    font-weight:bolder
+}
