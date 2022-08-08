@@ -55,3 +55,21 @@ h2{
     font-size: 20px;
     font-weight:bolder
 }
+.call-to-action{
+    font-weight: bold;
+}
+.blue-container{
+    background-color: #97acce;
+}
+.signup-button{
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 20%;
+    color: #ffffff;
+    background-color: #3882F6;
+}
+.footer{
+    background-color: #1F2937;
+color: rgb(255, 255, 255);
+font: Helvetica Neue;
+}
