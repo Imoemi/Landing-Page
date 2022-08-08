@@ -1,7 +1,7 @@
 /*{ box-sizing: border-box; outline: 1px solid red;}*/
 body {
     font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, -apple-system, BlinkMacSystemFont, ;
-    margin: 10px;
+    /*margin: 10px;*/
     background: rgb(255, 255, 255);
 }
 .first-section {
@@ -46,6 +46,8 @@ h2{
 }
 .fourth-section{
     background-color: rgb(158, 114, 114);
+    padding-bottom: 80px;
+    padding-top: 80px;
 }
 .quote{
     font-size: 20px;
@@ -70,18 +72,26 @@ h2{
     display: flex;
     justify-content: space-around;
     padding: 10px;
+    border-radius: 10px;
 }
 .signup-button{
     border-color: rgb(255, 255, 255);
     border-style: solid;
-    border-radius: 20%;
+    border-radius: 10%;
     color: #ffffff;
     background-color: #3882F6;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .footer{
     background-color: #1F2937;
 color: rgb(255, 255, 255);
 font: Helvetica Neue;
+display: flex;
+justify-content: center;
+padding-top: 20px;
+padding-bottom: 20px;
 }
 
 /*SOLUTION*/
@@ -110,6 +120,9 @@ h2{
 .boxes-container{
     display: flex;
     justify-content: space-around;
+    padding-bottom: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 .boxes-main{
     display: flex;
