@@ -1,4 +1,4 @@
-*{ box-sizing: border-box; outline: 1px solid red;}
+/*{ box-sizing: border-box; outline: 1px solid red;}*/
 body {
     font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, -apple-system, BlinkMacSystemFont, ;
     /*margin: 10px;*/
@@ -9,6 +9,7 @@ background-color: #1F2937;
 color: rgb(255, 255, 255);
 font: Helvetica Neue;
 padding-bottom: 50px;
+padding-top: 10px;
 }
 
 ul{
@@ -141,4 +142,8 @@ h2{
 }
 .welcome{
     width: 800px;
+}
+.logo-png{
+    height: auto;
+    width: 120px;
 }
