@@ -48,7 +48,7 @@ h2{
     outline: 1px;
 }
 .fourth-section{
-    background-color: rgb(158, 114, 114);
+    background-color: #e5e7eb;
     padding-bottom: 80px;
     padding-top: 80px;
 }
@@ -60,6 +60,7 @@ h2{
     padding: 10px;
     padding-left: 200px;
     padding-right: 200px;
+    color: #1f2937
 }
 .quote-name{
     font-size: 20px;
@@ -69,9 +70,13 @@ h2{
 }
 .call-to-action{
     font-weight: bold;
+    color: #ffffff;
+}
+.signup-text{
+    color:#ffffff
 }
 .blue-container{
-    background-color: #97acce;
+    background-color: #3882F6;
     display: flex;
     justify-content: space-around;
     padding: 10px;
