@@ -60,7 +60,8 @@ h2{
     padding: 10px;
     padding-left: 200px;
     padding-right: 200px;
-    color: #1f2937
+    color: #1f2937;
+    text-align: center;
 }
 .quote-name{
     font-size: 27px;
@@ -172,4 +173,7 @@ a{
     border-radius: 20%;
     border-style: solid;
     outline: 1px;
+}
+.text-align{
+    text-align: center;
 }
