@@ -19,6 +19,7 @@ ul{
 .header {
     font-weight: 800;
     font-size: 30px;
+    padding-bottom: 10px;
 }
 
 .signup {
@@ -139,6 +140,7 @@ h2{
 }
 .description{
     padding-right: 100px;
+    padding-bottom: 10px;
 }
 .welcome{
     width: 800px;
@@ -146,4 +148,8 @@ h2{
 .logo-png{
     height: auto;
     width: 120px;
+}
+.imageplaceholder{
+    height: auto;
+    width: 300px;
 }
